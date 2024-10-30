@@ -6,6 +6,3 @@ Project หมี่ไก่เปรี้ยว : https://lookerstudio.google
 
 
 Project canva : https://www.canva.com/design/DAGS5Xu4koM/aOgDDirjcVcTppFP0KyNKQ/edit
-
-
-HW looker : https://lookerstudio.google.com/reporting/c3df2c7b-cbe7-4147-a343-7f248c859b0c
